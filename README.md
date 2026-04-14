@@ -2,8 +2,7 @@
 
 > **Tools:** Python · Pandas · SQLite · Matplotlib · Seaborn  
 > **Data:** Synthetic sales dataset — 5,150 records · 13 injected issue types · 16 columns  
-> **Author:** Akash Trivedi · [LinkedIn](https://www.linkedin.com/in/at2924/) · [Tableau Public](https://public.tableau.com/app/profile/akash.trivedi4762)
-
+> **Author:** Akash Trivedi · [LinkedIn](https://www.linkedin.com/in/at2924/) 
 ---
 
 ## Business Question
