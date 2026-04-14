@@ -1,0 +1,13 @@
+Check,Severity,Affected
+Missing Values,CRITICAL,214
+Invalid Email,WARNING,181
+Ship < Order Date,CRITICAL,178
+Whitespace Issues,INFO,150
+Invalid Quantity,CRITICAL,149
+Duplicates,CRITICAL,143
+Referential Integrity,WARNING,90
+Invalid Price,CRITICAL,78
+Invalid Discount,WARNING,70
+Future Dates,CRITICAL,60
+Price Outliers,WARNING,30
+Invalid Province,WARNING,0
